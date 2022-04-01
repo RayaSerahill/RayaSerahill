@@ -11,7 +11,7 @@
  - I fell in love with programming immediately
  - I also like literature and reading.
 
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=RayaSerahill&count_private=true&theme=vue-dark" /></img>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=RayaSerahill&count_private=true&theme=vue-dark&bg_color=323330" /></img>
 **Talking Personal :**
  - 🌱 I'm currently learning **C#** 
  - 🤔 My hobbies are playing chess and running.
