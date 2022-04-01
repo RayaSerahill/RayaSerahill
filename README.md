@@ -21,7 +21,6 @@
 ![](https://img.shields.io/badge/JavaScript-41b883?style=for-the-badge&logo=javascript&logoColor=fff")
 ![](https://img.shields.io/badge/PHP-41b883?style=for-the-badge&logo=php&logoColor=fff")
 ![](https://img.shields.io/badge/Java-41b883?style=for-the-badge&logo=java&logoColor=white")
-![](https://img.shields.io/badge/HTML5-41b883?style=for-the-badge&logo=html5&logoColor=white")
 <br>
 <img height="28" src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img height="28" src="https://img.shields.io/badge/Express.js-323330?style=for-the-badge&logo=express&logoColor=white">
@@ -36,4 +35,4 @@
 <img height="28" src="https://img.shields.io/badge/Cent%20OS-323330?style=for-the-badge&logo=CentOS&logoColor=white">
 <img height="28" src="https://img.shields.io/badge/Ubuntu-323330?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img height="28" src="https://img.shields.io/badge/Trello-323330?style=for-the-badge&logo=trello&logoColor=white">
-
+<img height="28" src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=white">
