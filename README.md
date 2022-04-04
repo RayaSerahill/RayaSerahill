@@ -18,8 +18,8 @@
  - 💬 If you have any questions, just ask me.
  - This is my email: [rayaserahill@gmail.com](mailto:rayaserahill@gmail.com).
 
-![](https://img.shields.io/badge/JavaScript-41b883?style=for-the-badge&logo=javascript&logoColor=fff")
-![](https://img.shields.io/badge/PHP-41b883?style=for-the-badge&logo=php&logoColor=fff")
+![](https://img.shields.io/badge/JavaScript-41b883?style=for-the-badge&logo=javascript&logoColor=white")
+![](https://img.shields.io/badge/PHP-41b883?style=for-the-badge&logo=php&logoColor=white")
 ![](https://img.shields.io/badge/Java-41b883?style=for-the-badge&logo=java&logoColor=white")
 <br>
 <img height="28" src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=nodedotjs&logoColor=white">
