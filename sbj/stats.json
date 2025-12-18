@@ -1,0 +1,28 @@
+[
+  {
+    "Author": "Raya Serahill",
+    "Name": "BetterDiscordRichPresence",
+    "Punchline": "Discord!",
+    "Description": "Discord!",
+    "InternalName": "BetterDiscordRichPresence",
+    "AssemblyVersion": "1.0.0.9",
+    "TestingAssemblyVersion": "1.0.0.9",
+    "RepoUrl": "https://github.com/RayaEspi/BetterDiscordRichpresence",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "TestingDalamudApiLevel": 14,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/RayaEspi/BetterDiscordRichpresence/releases/download/1.0.0.9/release.zip",
+    "DownloadLinkTesting": "https://github.com/RayaEspi/BetterDiscordRichpresence/releases/download/1.0.0.9/release.zip",
+    "DownloadLinkUpdate": "https://github.com/RayaEspi/BetterDiscordRichpresence/releases/download/1.0.0.9/release.zip",
+    "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
+    "Tags": [
+      "Discord",
+      "Raya",
+      "Espi"
+    ],
+  }
+]
