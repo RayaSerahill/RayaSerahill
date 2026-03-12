@@ -24,5 +24,33 @@
       "Raya",
       "Espi"
     ]
-  }
+  },
+  {
+  "Author": "Raya Espi",
+  "Name": "sbjStats",
+  "InternalName": "sbjStats",
+  "AssemblyVersion": "1.0.4.0",
+    "RepoUrl": "https://github.com/RayaSerahill/sbjstats",
+  "Description": "Automatically upload SBJ stast to the web interface",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sample",
+    "gamba",
+    "sbj"
+  ],
+  "DalamudApiLevel": 14,
+  "IsHide": "False",
+  "IsTestingExclusive": "False",
+  "DownloadCount": 0,
+  "LastUpdate": 0,
+  "DownloadLinkInstall": "https://github.com/RayaSerahill/sbjstats/releases/download/1.0.4/release.zip",
+  "DownloadLinkTesting": "https://github.com/RayaSerahill/sbjstats/releases/download/1.0.4/release.zip",
+  "DownloadLinkUpdate": "https://github.com/RayaSerahill/sbjstats/releases/download/1.0.4/release.zip",
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Automatically upload SBJ stast to the web interface",
+  "AcceptsFeedback": true
+}
 ]
