@@ -14,7 +14,7 @@ const raya = {
 };
 ```
 
-I've been shipping real things to real users for **7+ years** and I still get excited running into new problems.
+I've been shipping real things to real users for **10+ years** and I still get excited running into new problems.
 I think good code should be readable by tired people at 2am; including future me 💕
 
 ---
