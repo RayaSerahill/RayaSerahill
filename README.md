@@ -14,8 +14,8 @@ const raya = {
 };
 ```
 
-I've been shipping real things to real users for **10+ years** and I still get excited running into new problems.
-I think good code should be readable by tired people at 2am; including future me 💕
+I've been shipping software to real users for **10+ years** and I still love it.
+I think good code should be readable by tired people at 2am experiencing a headache, including future me 💕
 
 ---
 
@@ -23,10 +23,9 @@ I think good code should be readable by tired people at 2am; including future me
 
 ♡ &nbsp; Pink hair, passionate about open-source \
 ♡ &nbsp; Tabs vs spaces? Spaces. We don't have to be friends about it \
-♡ &nbsp; Firm believer that a good documentation is an act of kindness \
-♡ &nbsp; Always looking for new things to learn and new problems to solve \
-♡ &nbsp; If you have a project you think I might be interested in, please reach \
-♡ &nbsp; Open for work, but also open to chat about anything tech-related!
+♡ &nbsp; Firm believer that a good documentation is an act of kindness (and not having one makes you my enemy D:<) \
+♡ &nbsp; Always looking for new things to learn, I love my hyperfixations \
+♡ &nbsp; If you have a project you think I might be interested in, please reach out!
 
 ---
 
